@@ -1,3 +1,18 @@
 * {
   outline: solid red;
 }
+
+h1 {
+  text-align: center;
+}
+
+.flashCard {
+  display: flex;
+  justify-content: center;
+  padding: 200px;
+}
+
+.keyEntry {
+  display: flex;
+  justify-content: center;
+}
